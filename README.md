@@ -275,12 +275,20 @@ cerl-system/
 ## 📸 Screenshots
 
 ### Home Page - Resource Map
+<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/93c3b395-79ac-4e90-af53-a8611d6fe6e2" />
+
 Interactive map showing nearby emergency resources with distance markers and filters.
 
 ### Admin Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bbfe912-1cdd-407f-92fa-7d5277637bf3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71d1dd71-a392-4f76-9c66-ecbee9297de0" />
+
+
 Comprehensive admin panel with user management, resource verification, and system statistics.
 
 ### Coordinator Panel
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6db88bcd-a8fe-477b-9518-c86e36e4dc2d" />
+
 Real-time resource capacity updates and management interface.
 
 ---
@@ -472,7 +480,7 @@ npm run dev
 ```bash
 cd backend
 venv\Scripts\activate
-python manage.py runserver 127.0.0.1:8000
+python manage.py runserver
 ```
 
 ### Start Frontend (Terminal 2 - New Window)
