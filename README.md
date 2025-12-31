@@ -442,9 +442,7 @@ A:
 - **[LOGIN_FIX.md](LOGIN_FIX.md)** - 🔧 Fix login connection issues
 - **[DOCUMENTATION.md](DOCUMENTATION.md)** - Detailed feature documentation
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines
-- **[CHANGELOG.md](CHANGELOG.md)** - Version history
-- **[LICENSE](LICENSE)** - MIT License
-
+  
 ---
 
 ## 🔧 Quick Setup Scripts
