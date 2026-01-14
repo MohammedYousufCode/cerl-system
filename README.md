@@ -502,7 +502,6 @@ npm run dev
 - **Offline Mode**: Currently requires internet connection
 - **Push Notifications**: Not yet implemented (planned)
 - **SMS Alerts**: Not yet implemented (planned)
-- **PDF Export**: CSV export only (PDF planned)
 - **Multi-language**: English only (i18n planned)
 - **Mobile App**: Web-only (React Native app planned)
 
